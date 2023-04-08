@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02/2021
+Description: Program that use the class called Fraccion in order to use exceptions. 
+*/
+
 #include "Fraccion.h"
 #include "Fraccion.cpp"
 #include<iostream>

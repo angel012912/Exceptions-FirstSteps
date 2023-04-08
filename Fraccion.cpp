@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02/2021
+Description: Program that implements the methods from the class called Fraccion that allows you to create fractions and perform operations with them
+*/
+
 #include "Fraccion.h"
 #include <iostream>
 #include <string>

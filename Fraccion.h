@@ -1,3 +1,9 @@
+/*
+Author: Jose Angel Garcia Gomez
+Date: 02/2021
+Description: Program that defines and creates a class called Fraccion that allows you to create fractions and perform operations with them
+*/
+
 #ifndef FRACCION_H_
 #define FRACCION_H_
 using namespace std;
